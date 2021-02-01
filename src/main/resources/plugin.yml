@@ -13,3 +13,5 @@ commands:
     description: Opens the category GUI
     aliases: rtp
     usage: "/rtp"
+
+
