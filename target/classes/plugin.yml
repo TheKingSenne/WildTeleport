@@ -1,0 +1,17 @@
+main: me.tks.wildteleport.wildteleport.WildTeleport
+name: WildTeleport
+version: 1.3
+api-version: 1.16
+author: The_King_Senne
+softdepend: [Vault]
+commands:
+  wildteleport:
+    description: Main command for WildTeleport
+    aliases: wt
+    usage: "/wt help"
+  randomteleport:
+    description: Opens the category GUI
+    aliases: rtp
+    usage: "/rtp"
+
+
